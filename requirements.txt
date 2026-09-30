@@ -1,0 +1,7 @@
+rich
+requests
+pycryptodome
+zstandard
+psutil
+cryptography
+gmalg
